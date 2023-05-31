@@ -1,0 +1,1 @@
+avatar = https://img.freepik.com/premium-vector/funny-green-face-square-avatar-cartoon-emotion-icon_53562-16129.jpg?w=360
